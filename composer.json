@@ -1,0 +1,14 @@
+{
+    "name": "nuts/wn-search-plugin",
+    "type": "winter-plugin",
+    "authors": [
+        {
+            "name": "Nuts"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "^1.0 || ^2.0",
+        "nuts/wn-meilisearch-plugin": "^1.0"
+    }
+}

@@ -1,0 +1,6 @@
+plugin:
+    name: 'nuts.search::lang.plugin.name'
+    description: 'nuts.search::lang.plugin.description'
+    author: Nuts
+    icon: wn-icon-adjust
+    replaces: {  }
